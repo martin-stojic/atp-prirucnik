@@ -1,10 +1,10 @@
 # Moj razvojni priruènik
 
-Test za Akademsko i tehnièko pisanje
+Test za Akademsko i tehnièko pisanje.
 
 ## Kome je namijenjen
 
-Kolegima i profesorima koji su veæ upoznati sa radu na raèunalima
+Kolegima i profesorima koji su veæ upoznati sa radu na raèunalima.
 
 ## Moje razvojno okruženje
 
@@ -18,7 +18,7 @@ Kolegima i profesorima koji su veæ upoznati sa radu na raèunalima
 
 ## Sadržaj
 
-- [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
+- [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi.
 
 ## Autor i korištenje AI-a
 
