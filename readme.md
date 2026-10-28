@@ -4,7 +4,7 @@ Test za Akademsko i tehnièko pisanje
 
 ## Kome je namijenjen
 
-Kolegima i profesorima
+Kolegima i profesorima koji su veæ upoznati sa radu na raèunalima
 
 ## Moje razvojno okruženje
 
